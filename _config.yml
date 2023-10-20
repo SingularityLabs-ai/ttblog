@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 baseurl: "/ttblog"
 
-title   : Your Site Title
+title   : All Posts
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
