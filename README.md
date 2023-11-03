@@ -84,6 +84,16 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 | [Archive](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Archive page |
 | [Layout Examples](https://kitian616.github.io/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
 
+##
+
+### 🤔 Questions? Problems? Suggestions?
+
+#### Get help - [Discord 💬](https://discord.gg/jc4xtF58Ve)
+
+[![Join us on Discord](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
+
+##
+
 ## License
 
 TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
